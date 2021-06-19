@@ -1,8 +1,6 @@
 # Multi-Leap-Motion-Setup
 A sensor fusion pipeline to register and fuse the trajectories captured by multiple leap motion controllers.
 
-This script will prepare multi-device Leap Motion data for comparison with a gold-standard motion capture setup.
-
 The following steps will be performed: 
 
 1) Sensor data will be read into the script. 
