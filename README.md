@@ -9,8 +9,9 @@ The following steps will be performed:
 4) Data fusion between sensor output will be performed, resulting in only one co-ordinate for each joint. 
 5) Data will be stored in a C3D file, ready for quantification of kinematic outputs.
 
-Should you use the code supplied in this repository, please cite:
+Should you use the code supplied in this repository, please cite the related article.
 
 ### Cite As:
+'''
 Houston AD., Walters V., Corbett T., Coppack R. (2021) Evaluation of a multi-sensor Leap Motion set-up for biomechanical motion capture of the hand. *Journal of Biomechanics*  
-
+'''
