@@ -11,7 +11,6 @@ The following steps will be performed:
 
 Should you use the code supplied in this repository, please cite:
 
-'''
+### Cite As:
 Houston AD., Walters V., Corbett T., Coppack R. (2021) Evaluation of a multi-sensor Leap Motion set-up for biomechanical motion capture of the hand. *Journal of Biomechanics*  
 
-'''
